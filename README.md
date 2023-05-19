@@ -1,2 +1,2 @@
-# Portfolio-Tailiwn-CSS
-Belajar Membuat Portfolio Tailwin Css
+# Portfolio-Tailiwnd-CSS
+Belajar Membuat Portfolio Tailwind Css
